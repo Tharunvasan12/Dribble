@@ -176,7 +176,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Screenshot 2024-12-28 142326](https://github.com/user-attachments/assets/b02c99b0-3270-4352-bf15-923d2bf9809a)
+![image](https://github.com/user-attachments/assets/bd8226b3-2f2a-4b59-85fc-332d16ca0dbc)
+
 
 
 
